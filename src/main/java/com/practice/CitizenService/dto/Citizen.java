@@ -10,5 +10,5 @@ public class Citizen {
     @Id
     private Integer id;
     private String name;
-    private int vaccinationCenterId;
+    private Integer vaccinationCenterId;
 }
